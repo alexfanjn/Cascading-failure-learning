@@ -81,7 +81,7 @@ if __name__ == '__main__':
 
     # transform all data to tensor form for pytorch training
     weights = torch.tensor(weights, dtype=torch.float)
-    criterion = torch.nn.CrossEntropyLoss(weight=weights)
+    criterion = torch.nn.NLLLoss(weight=weights)
 
 
 
