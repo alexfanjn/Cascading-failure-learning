@@ -1,8 +1,8 @@
-![large](fig/framework.png)
-
 ## Cascading Failure Learning
 
 The relevant data and codes of our ISCAS2022 work "**Predicting Onset Time of Cascading Failure in Power Systems Using A Neural Network-Based Classifier**".
+
+<p align="center"> <img src="fig/framework.png" /> <p align="center"><em>Fig. 1. A systematic framework of the application of neural network-based classifier for predicting the degree of urgency of the onset time that is identified from failure propagation in a power system.</em></p>
 
 
 
